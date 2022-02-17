@@ -13,7 +13,7 @@ k8s_version-policy-name="iks-version"
 k8s_version-version-name="1.20.14-iks.0"
 k8s_infra-policyName="iks-infraConfig"
 k8s_worker-policyName="iks-k8s-vm-instance"
-organzation="default"
+organization="default"
 tags=[
         {
             "key": "deployedUsing"
