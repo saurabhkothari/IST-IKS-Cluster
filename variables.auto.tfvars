@@ -2,7 +2,7 @@
 #secretkey="../Secretkey.txt"
 iksclustername="saukotha-cluster02"
 num-control-nodes=1
-num-worker-nodes=1
+num-worker-nodes=2
 num-load-balancer=5
 num-worker-nodes-max=5
 ssh_user="iksadmin"
