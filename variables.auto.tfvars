@@ -1,5 +1,5 @@
 
-iksclustername="saukotha-IST-IKS"
+iksclustername="saukotha-cluster02"
 num-control-nodes=1
 num-worker-nodes=1
 num-load-balancer=5
